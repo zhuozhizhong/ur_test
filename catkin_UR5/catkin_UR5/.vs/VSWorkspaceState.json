@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\universal_robot",
+    "\\src\\universal_robot\\ur_planning",
+    "\\src\\universal_robot\\ur_planning\\src"
+  ],
+  "SelectedNode": "\\src\\universal_robot\\ur_planning\\src\\moveitServerCpp.cpp",
+  "PreviewInSolutionExplorer": false
+}
